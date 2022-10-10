@@ -56,7 +56,7 @@ standing, sitting, kissing,
 
 ==fellatio==
 
-==breast paizuri==
+==breast_paizuri==
 
 ==spread_legs==
 
@@ -65,9 +65,9 @@ standing, sitting, kissing,
 
 > up
 
-blindfold, intricate_bow, hair scrunchy
+blindfold, intricate_bow, hair_scrunchy
 
-rabbit ears, cat ears, pointy ears
+rabbit_ears, cat_ears, pointy_ears
 
 shawl
 
