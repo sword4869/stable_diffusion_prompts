@@ -1,31 +1,6 @@
-# Woman
-beautiful, perfect face, cute
-
-fullbody
-
-blonde wispy hair, hairbun, ponytail
-
-flat chest, small breasts, huge breasts
-
-wide hips, thick thighs, 
-
-standing, sitting, looking away
-
-1 girl, solo
-
-
-# Cloth
-
-blindfold
-
-intricate bow
-
-striped panties
-
-school uniform, golen_bikini
-
 # Quality
-highly detailed, ultra detailed
+
+highly_detailed, ultra_detailed
 
 cinematic
 
@@ -33,31 +8,34 @@ masterpiece
 
 8k
 
-trending on pixiv fanbox
+trending_on_pixiv, fanbox
 
 # Item
-three decrepit thrones
+three_decrepit_thrones
 
 # Light
-blue glowing lights, ambient lighting, diffuse lighting
+blue_glowing_lights, ambient_lighting, diffuse_lighting
 
-dark fantasy, dark mood, 
+dark_fantasy, dark_mood, 
 
 # View
 silhouette,
 
-looking down pov
+looking_down_pov, looking_away, looing_at_viewer, facing_viewer, looking_forward, facing_away
+
+medium_shot
 
 # Style
-pencil drawing, a ink drawing, graffiti, watercolor painting, sketch, comic, digital painting
+
+pencil_drawing, a_ink_drawing, graffiti, watercolor_painting, sketch, comic, digital_painting, digital_art
 
 photograph, photorealistic
 
-ultra realistic, realistic render octane
+ultra_realistic, realistic_render_octane
 
-oil on canvas,
+oil_on_canvas,
 
 flatcolour
 
-no color
+no_color, black_and_white, gray_scale
 

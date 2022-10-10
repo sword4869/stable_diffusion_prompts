@@ -4,4 +4,5 @@
 
 # prompts site
 
+<https://wiki.installgentoo.com/wiki/Stable_Diffusion>
 <https://lexica.art/>
