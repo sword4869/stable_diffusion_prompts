@@ -85,7 +85,7 @@ opening_jacket, blazer, jampsuit, sweater, school_uniform, mechanical_armour, fr
 
 > down
 
-striped_panties, ==bottomless panty, panties_from_behind, crotchless panties, loincloth, thong==
+striped_panties, ==bottomless, bare_panty, crotchless_panties, loincloth, thong==
 
 ==clothes_lift, skirt_lift, dress_lift==
 
