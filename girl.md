@@ -1,5 +1,5 @@
 
-==something== means sexual prompts which result in hentai painting.
+~~something~~ means sexual prompts which result in hentai painting.
 
 
 # specify nsfws
@@ -49,21 +49,21 @@ slim_body, plump_body, narrow_shoulders, hourglass_figure
 
 # expression
 
-empty_eye, glowing_eye, ==heart_shaped_pupils==
+empty_eye, glowing_eye, ~~heart_shaped_pupils~~
 
 smile, tear
 
 open_mouth, frowning, confused, flustered, embarrassed, blush
 
-==ahegao, aroused==
+~~ahegao, aroused~~
 
 # posture
 
 standing, sitting, kissing, lying
 
-==breast_paizuri==
+~~breast_paizuri~~
 
-arms_behind_head, crossed_legs, ==spread_legs, sex_from_behind, ass_grab waist_grab, all_fours, doggy_style, cowgirl_position==
+arms_behind_head, crossed_legs, ~~spread_legs, sex_from_behind, ass_grab waist_grab, all_fours, doggy_style, cowgirl_position~~
 
 
 # Cloth
@@ -85,11 +85,11 @@ shawl
 
 > middle
 
-lingerie, bralette, golen_bikini, micro_bikini, corset, sports_bra, ==topless==
+lingerie, bralette, golen_bikini, micro_bikini, corset, sports_bra, ~~topless~~
 
-dress/mini_dress/knee-length_dress/midi_dress/long_dress/maxi_dress/gown, camisole, negligee, slip_dress, front_slit_dress, wedding_dress, cheongsam/qipao/mandarin_gown, floral_print_dress, gothic_lolita, ==diaphanous==
+dress/mini_dress/knee-length_dress/midi_dress/long_dress/maxi_dress/gown, camisole, negligee, slip_dress, front_slit_dress, wedding_dress, cheongsam/qipao/mandarin_gown, floral_print_dress, gothic_lolita, ~~diaphanous~~
 
-bodycon, bodysuit, zentai, morphsuit, ==lace_bodysuit, bodystocking==
+bodycon, bodysuit, zentai, morphsuit, ~~lace_bodysuit, bodystocking~~
 
 lace_gloves
 
@@ -97,7 +97,7 @@ opening_jacket, blazer, jampsuit, sweater, school_uniform, mechanical_armour, fr
 
 > down
 
-striped_panties, ==bottomless, bare_panty, crotchless_panties, loincloth, thong==
+striped_panties, ~~bottomless, bare_panty, crotchless_panties, loincloth, thong~~
 
 demon_tail
 
@@ -107,9 +107,9 @@ barefoot, high_heels, platform_heels, boots
 
 > other
 
-==clothes_lift, skirt_lift, dress_lift, open_dress==
+~~clothes_lift, skirt_lift, dress_lift, open_dress~~
 
-==transparent_clothes=
+~~transparent_clothes~~
 # kind
 
 petite, loli, milf, office_lady, cowgirl, fitgirl, nekopara, gyaru
