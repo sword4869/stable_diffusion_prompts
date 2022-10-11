@@ -38,10 +38,11 @@ Put the `copyright` tags first, then the character tags `miku`
 
 # 4. Architecture
 
-- elements directory:
+- elements directory: single prompt.
   - common: general prompts, i.e. view, style...
   - girl: tell you how can produce a beautiful girl painting. (included hentai content)
   - man
   - negative: negative prompts that you want to avoid.
-- examples:
+- examples: combination of elements.
+  - negative: common negative prompts.
   - nfsw: u know.
