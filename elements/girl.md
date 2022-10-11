@@ -10,7 +10,7 @@ penis, dildo, dick, nipples, navel, cervix, camel_toe
 
 cum_leak, cumshot, fellatio, blowjob, handjob, hand_on_penis, licking_penis, gaping_pussy, gaping_anus, penetration, masturbation, ejaculation, 
 
-squatting, pussy_juice, dripping_pussy, spanking
+pussy_juice, dripping_pussy, open_pussy, spanking
 
 nude, erotic_body
 
@@ -63,7 +63,7 @@ standing, sitting, kissing, lying
 
 ~~breast_paizuri~~
 
-arms_behind_head, crossed_legs, ~~spread_legs, sex_from_behind, ass_grab waist_grab, all_fours, doggy_style, cowgirl_position~~
+arms_behind, arms_above_head, crossed_legs, ~~spread_legs, sex_from_behind, ass_grab waist_grab, all_fours, doggy_style, cowgirl_position, squatting~~
 
 
 # Cloth
@@ -114,7 +114,7 @@ barefoot, high_heels, platform_heels, boots
 
 petite, loli, milf, office_lady, cowgirl, fitgirl, nekopara, gyaru
 
-teenage
+teenage, mature_girl
 
 # other words
 

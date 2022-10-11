@@ -28,7 +28,7 @@ looking_forward, facing_away
 
 side_view, from_side
 
-low_angle
+low_angle, looking_up
 
 from_behind
 
