@@ -16,7 +16,7 @@
 
 <https://lexica.art/>
 
-<https://boards.4chan.org/h>
+<https://boards.4chan.org/h/thread/6891432>(nfsw)
 
 # 3. Trick
 
