@@ -1,3 +1,3 @@
 ```
-extra_fingers, extra_limbs, extra_hands, missing_limbs, disconnected_limbs, malformed_hands, poorly_drawn_hands, poorly_drawn_face, mutation, mutated, deformed, mangled_fingers, floating_limbs, bad_anatomy, bad_propotions
+extra fingers, extra limbs, extra hands, missing limbs, disconnected limbs, malformed hands, poorly drawn hands, poorly drawn face, mutation, mutated, deformed, mangled fingers, floating limbs, bad anatomy, bad propotions
 ```

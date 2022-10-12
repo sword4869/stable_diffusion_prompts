@@ -1,26 +1,26 @@
 ```
-anime_girl, best_quality, highly_detailed, library, glasses,  high_ponytail, collar, open_mouth, blush, heavy_breathing, squatting, open_pussy, pussy_juice, fishnets, looking_up
+anime girl, best quality, highly detailed, library, glasses,  high ponytail, collar, open mouth, blush, heavy breathing, squatting, open pussy, pussy juice, fishnets, looking up
 ```
 
 ```
-anime_girl,masterpiece, big_breast, long_hair, red_hair, pigtails_hair, embarrassed, blush, topless, spread_legs, fishnets, squatting, cum_on_pussy, cum_leak
+anime girl,masterpiece, big breast, long hair, red hair, pigtails hair, embarrassed, blush, topless, spread legs, fishnets, squatting, cum on pussy, cum leak
 ```
 
 ```
-anime_girl,  bandage, ballgag, blindfold, womb_tattoo, squatting, pussy_juice, dripping_pussy, sweat_steam, arms_above_head
+anime girl,  bandage, ballgag, blindfold, womb tattoo, squatting, pussy juice, dripping pussy, sweat steam, arms above head
 ```
 
 ```
-anime_girl, topless, long_hair, embarrassed, blush, plump_body, exhibitionism, outdoors,  crowd,  audience, surrendered
+anime girl, topless, long hair, embarrassed, blush, plump body, exhibitionism, outdoors,  crowd,  audience, surrendered
 ```
 
 ```
-anime_girl, masterpiece,1girl, gyaru, brown_hair, blonde_wispy_hair, blindfold, tongue_out, dark_skinned, pussy, dripping_pussy, spanking, heart_shape, on_bed, all_fours, from_behind, full_body
+anime girl, masterpiece,1girl, gyaru, brown hair, blonde wispy hair, blindfold, tongue out, dark skinned, pussy, dripping pussy, spanking, heart shape, on bed, all fours, from behind, full body
 ```
 
 ```
-anime_girl, 1girl, masterpiece, blush, sweat_steam, braids, microphone, small_nipples, wide_hips, wet diaphanous see_through transparent lace frilly gown,  facial_cum, cum_leak, creampie, singing, stage_lights, night, sexy_angle
+anime girl, 1girl, masterpiece, blush, sweat steam, braids, microphone, small nipples, wide hips, wet diaphanous see through transparent lace frilly gown,  facial cum, cum leak, creampie, singing, stage lights, night, sexy angle
 ```
 ```
-anime_girl, tongue, facial_cum, cum_leak, cum_on_pussy, pussy_juice, creampie, gaping_pussy, sex_from_behind,dripping_pussy, ram_horns, spread_legs, gothic_lolita, torn_clothes, sexy_angle
+anime girl, tongue, facial cum, cum leak, cum on pussy, pussy juice, creampie, gaping pussy, sex from behind,dripping pussy, ram horns, spread legs, gothic lolita, torn clothes, sexy angle
 ```
