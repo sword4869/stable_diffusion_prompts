@@ -1,29 +1,27 @@
 
-`something` means sexual prompts which result in hentai painting.
+- `something` means sexual prompts which result in hentai painting.
 
-~~something~~ means usefulness prompts which don't work.
+- ~~something~~ means usefulness prompts which don't work.
 
 # specify nsfws
 
-nsfw, explict_content, sex, casual_sex, uncensored
+nsfw, explict_content, sex, casual_sex, in_sex,  uncensored
 
-penis, dildo, dick, nipples, navel, cervix, cameltoe
+penis, dildo, dick, cervix, cameltoe
 
-cum_leak, cum_on_pussy, pussy_juice, open_pussy (these are really great)
+cum_leak, cum_on_pussy, pussy_juice, creampie, gaping_pussy, dripping_pussy (these are really great)
 
-~~cumshot~~, fellatio, blowjob, handjob, hand_on_penis, licking_penis, gaping_pussy, gaping_anus, masturbation, ~~penetration, ejaculation~~, 
+blowjob, handjob, licking_penis, masturbation, ~~fellatio~~, ~~cumshot~~, ~~penetration, ejaculation~~, 
 
-dripping_pussy, spanking
+spanking
 
 nude, erotic_body
 
 tan, bikini_tan, womb_tattoo
 
-bondage, ballgag
+bondage, ballgag, ~~hypnosis~~
 
-sweat_steam, heavy_breathing, wet
-
-hypnosis,
+sweat_steam, heavy_breathing
 
 aroused, horny, bawdy, bimbo, vaginal
 
@@ -34,25 +32,23 @@ heart_shape, spoken_question_mark, tentacle
 
 # general
 
-anime_girl
-
-full_body
+anime_girl, 1girl, multiple_girls
 
 beautiful, perfect_face, cute, very_deep_eyes
 
-blonde_wispy_hair, hair_bun, high_ponytail, hair_over_shoulder, drill_hair, swept_bangs, 
+wispy_hair, hair_bun, high_ponytail, hair_over_shoulder, extremely_long_hair, swept_bangs, 
 
-cleavage, flat_chest, small_breasts, medium_breast,  huge_breasts/thicc/thick
+cleavage, flat_chest, small_breasts, medium_breast,  huge_breasts/thicc/thick, `nipples`, `small_areolae`, `big_areolae`
 
-wide_hips, thick_thighs, 
+narrow_shoulders
+
+wide_hips, 
 
 muscular, abs
 
-slim_body, plump_body, narrow_shoulders, hourglass_figure
+slim_body, plump_body,  hourglass_figure
 
-
-1girl, multiple_girls
-
+armpits, navel, groin, 
 
 # expression
 
@@ -60,13 +56,13 @@ empty_eye, glowing_eye
 
 smile, tear
 
-open_mouth, frowning, confused, flustered, embarrassed, blush
+open_mouth, frowning, confused, flustered, embarrassed, blush, drooling, smug
 
 `ahegao`, `tongue`
 
 # posture
 
-standing, sitting, kissing, lying
+standing, sitting, lying
 
 ~~breast_paizuri~~
 
@@ -77,14 +73,13 @@ arms_behind, arms_above_head, crossed_legs, `spread_legs`, `sex_from_behind`, ~~
 
 > up
 
-
 intricate_bow, hair_scrunchy
 
 rabbit_ears, cat_ears, pointy_ears, dragon_horns, demon_horns
 
 glasses, blindfold, 
 
-helmet, hat
+helmet, witch_hat
 
 chocker, collar
 
@@ -94,7 +89,7 @@ shawl
 
 lingerie, bralette, golen_bikini, micro_bikini, corset, sports_bra, `topless`(`topless_nipples` more useful)
 
-dress/mini_dress/knee-length_dress/midi_dress/long_dress/maxi_dress/gown, camisole, negligee, slip_dress, front_slit_dress, wedding_dress, cheongsam/qipao/mandarin_gown, floral_print_dress, gothic_lolita, `diaphanous`
+dress/mini_dress/knee-length_dress/midi_dress/long_dress/maxi_dress/gown, camisole, negligee, slip_dress, front_slit_dress, wedding_dress, cheongsam/qipao/mandarin_gown, floral_print_dress, gothic_lolita
 
 bodycon, bodysuit, zentai, morphsuit, `lace_bodysuit`, `bodystocking`
 
@@ -108,15 +103,15 @@ striped_panties, `crotchless_panties`, `loincloth`, `thong`, `bottomless` (direc
 
 demon_tail
 
-fishnets
+fishnets, thighhighs
 
-barefoot, high_heels, platform_heels, boots
+detailed_feet, spread_toes, barefoot, high_heels, platform_heels, boots, 
 
 > other
 
 `clothes_lift`, `skirt_lift`, `dress_lift`, `open_dress`
 
-~~transparent~~
+`diaphanous see_through transparent` (combination is best)
 
 # kind
 
