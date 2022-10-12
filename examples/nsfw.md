@@ -21,3 +21,6 @@ anime_girl, masterpiece,1girl, gyaru, brown_hair, blonde_wispy_hair, blindfold, 
 ```
 anime_girl, 1girl, masterpiece, blush, sweat_steam, braids, microphone, small_nipples, wide_hips, wet diaphanous see_through transparent lace frilly gown,  facial_cum, cum_leak, creampie, singing, stage_lights, night, sexy_angle
 ```
+```
+anime_girl, tongue, facial_cum, cum_leak, cum_on_pussy, pussy_juice, creampie, gaping_pussy, sex_from_behind,dripping_pussy, ram_horns, spread_legs, gothic_lolita, torn_clothes, sexy_angle
+```
