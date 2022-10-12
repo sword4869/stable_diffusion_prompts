@@ -17,3 +17,7 @@ anime_girl, topless, long_hair, embarrassed, blush, plump_body, exhibitionism, o
 ```
 anime_girl, masterpiece,1girl, gyaru, brown_hair, blonde_wispy_hair, blindfold, tongue_out, dark_skinned, pussy, dripping_pussy, spanking, heart_shape, on_bed, all_fours, from_behind, full_body
 ```
+
+```
+anime_girl, 1girl, masterpiece, blush, sweat_steam, braids, microphone, small_nipples, wide_hips, wet diaphanous see_through transparent lace frilly gown,  facial_cum, cum_leak, creampie, singing, stage_lights, night, sexy_angle
+```
