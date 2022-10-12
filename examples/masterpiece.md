@@ -16,3 +16,9 @@ anime girl, masterpiece, cinematic, highly detailed, best quality, 1girl, studen
 anime girl, masterpiece, cinematic, highly detailed, best quality, 1girl, mechanic armour, war, birds, from behind, full body, silhouette
 ```
 ![](../image/04.png)
+
+
+a beautiful witch
+```
+anime girl, sexy angle, best quality, 1girl, silver stray straight long bangs hair, red glowing eyes, black witch hat, lace breast bow, intricate cape, white elegant gown, magic book, François Bocion
+```
