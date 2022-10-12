@@ -47,9 +47,14 @@ Put the `copyright` tags first, then the character tags `miku`
 
 # 4. Architecture
 
+> signal meaning:
+- `something` means sexual prompts which result in hentai painting.
+- ~~something~~ means usefulness prompts which don't work.
+
+director architecture:
 - elements directory: single prompt.
-  - common: general prompts, i.e. view, style...
-  - girl: tell you how can produce a beautiful girl painting. (included hentai content)
+  - common: general prompts, i.e. view, style, lighting, background...
+  - girl: tell you how can produce a beautiful girl painting. (included nsfw content)
   - man
   - negative: negative prompts that you want to avoid.
 - examples: combination of elements.
