@@ -11,14 +11,16 @@ masterpiece
 trending_on_pixiv, fanbox
 
 # Item
+
 three_decrepit_thrones
 
+river, flooding(best description), shadow_water
 
 # View
 
-closeup, full_body
+sexy_angle(best for most situations)
 
-solo_focus
+closeup, full_body, solo_focus
 
 high_angle, looking_down_pov, aerial_shot, from_above
 
@@ -39,6 +41,9 @@ wide_angle_lens
 multiple_view
 
 looking_in_mirror
+
+street_view
+
 # background
 
 bokeh/depth_of_field
@@ -47,6 +52,8 @@ simply_background
 
 
 blue_glowing_lights, ambient_lighting, diffuse_lighting
+
+neon_lights, stage_lights(~~stage~~)
 
 dark_fantasy, dark_mood, 
 
