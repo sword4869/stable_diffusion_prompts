@@ -16,7 +16,7 @@ three_decrepit_thrones
 
 # View
 
-closeup
+closeup, full_body
 
 solo_focus
 
